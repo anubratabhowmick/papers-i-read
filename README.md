@@ -4,3 +4,5 @@ A repository of all the papers I read, accompanied with it's code(if replicated/
 ## List of papers
 
 * Crossing the Cleft: Communication Challenges Between Neuroscience and Artificial Intelligence : [[ pdf ](https://github.com/anubratabhowmick/papers-i-read/blob/main/papers/fncom-14-00039.pdf) | [ blog ]()]
+
+* Neuroscience-Inspired Artificial Intelligence : [[ pdf ](https://github.com/anubratabhowmick/papers-i-read/blob/main/papers/PIIS0896627317305093.pdf) | [ blog ]()]
